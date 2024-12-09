@@ -1,6 +1,6 @@
 # Turborepo starter
 
-This is a monorepo (Turborepo) starter template that includes a Vue.js and a NestJS. The starter is inspired by [official Turborepo template](https://turbo.build/) and [antfu's vitesse-lite](https://github.com/antfu-collective/vitesse-lite).
+This is a monorepo(Turborepo) template that includes Vue.js and Nest.js. The starter is inspired by [official Turborepo template](https://turbo.build/) and [antfu's vitesse-lite](https://github.com/antfu-collective/vitesse-lite).
 
 ## Using this template
 
